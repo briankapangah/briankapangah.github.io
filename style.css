@@ -1,0 +1,86 @@
+body{
+    background: grey ;
+    background-image:  url('brian.jpg');
+    background size: cover;
+    background-position: center;
+    width: 100%;
+
+}
+#dob{
+    margin-right:15%;
+    text-align: center;
+
+}
+#log{
+    font-family: cambria;
+    font-size: 120%;
+    border: solid grey 3px;
+    border-radius: 50px;
+    margin: 100px auto;
+    background: white;
+    padding: 2%;
+    text-align: center;
+    width: 25%;
+}
+
+#button{
+    border-radius: 50px;
+    color:white;
+    background: darkblue;
+    padding: 1%;
+    margin: auto;
+    width:90%;
+    font-family: cambria;
+    font-size: 120%;
+    border-color: grey;
+    cursor: pointer;
+    transition: .10s;
+}
+#buttons{
+    border-radius: 80px;
+    color:white;
+    background: darkblue;
+    padding: 1%;
+    margin-right:45%;
+    width: 85%;
+    font-family: cambria;
+    font-size: 120%;
+    border-color: grey;
+    cursor: pointer;
+    transition: .5s;
+}
+#frm{
+    font-family: cambria;
+    font-size: 120%;
+    border: solid grey 3px;
+    width: 340px;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding: 1%;
+    border-radius: 30px;
+}
+#reg{
+    font-family: cambria;
+    font-size:120%;
+    border: solid grey 1px;
+    width:300px;
+    border-radius: 5%;
+    margin: 10px auto;
+    background: white;
+    padding: 1%;
+    text-align: left;
+}
+#form{
+    font-family: cambria;
+    font-size: 120%;
+    border: solid grey 3px;
+    width: 380px;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding: 1%;
+    border-radius: 30px;
+    text-align: center;
+
+}

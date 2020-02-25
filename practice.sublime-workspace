@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"s",
+				"sayHello"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"fa",
+				"font-family\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/practice/LOG_IN/practice.php",
+		"/C/xampp/htdocs/practice/LOG_IN/processes.php",
+		"/C/xampp/htdocs/practice/LOG_IN/styling.css",
+		"/C/xampp/htdocs/practice/source/welcome.php",
+		"/C/xampp/htdocs/practice/ASSIGNMENTS/practice.php",
+		"/C/Users/BRYKAPS/Documents/Animal.java",
+		"/C/Users/BRYKAPS/3D Objects/Program.java",
+		"/C/Users/BRYKAPS/3D Objects/ContainerLoader.java",
+		"/C/Users/BRYKAPS/AppData/Local/Microsoft/Windows/INetCache/IE/WR1GY72A/CV[1].doc",
+		"/C/Users/BRYKAPS/Desktop/BRIAN KAPANGA I.T H170201Z/#1/Salary.java",
+		"/C/Users/BRYKAPS/Desktop/BRIAN KAPANGA I.T H170201Z/#1/Employee.java",
+		"/C/Users/BRYKAPS/Desktop/BRIAN KAPANGA I.T H170201Z/#1/Test.java",
+		"/C/Users/BRYKAPS/Documents/boxes.html",
+		"/C/Users/BRYKAPS/Pictures/java ref/chonzi.js",
+		"/F/index.html",
+		"/F/index1.html",
+		"/C/Users/BRYKAPS/Downloads/VERSITY STUFF-2/NET CENTRIC PRINCIPLES/exam.html",
+		"/C/Users/BRYKAPS/Downloads/VERSITY STUFF-2/NET CENTRIC PRINCIPLES/assignment.html",
+		"/C/Users/BRYKAPS/Pictures/form.html",
+		"/C/Users/BRYKAPS/Pictures/CircularQue.java",
+		"/C/Users/BRYKAPS/Pictures/Programme.java",
+		"/C/Users/BRYKAPS/Pictures/Node.java",
+		"/C/Users/BRYKAPS/Pictures/circQueue.java",
+		"/C/Users/BRYKAPS/Desktop/Prog.java",
+		"/C/Users/BRYKAPS/Desktop/Prac.java",
+		"/D/result.txt",
+		"/C/Users/BRYKAPS/Desktop/hayas.html",
+		"/C/Users/BRYKAPS/Desktop/eyo.html",
+		"/C/Users/BRYKAPS/Downloads/VERSITY STUFF-2/NET CENTRIC PRINCIPLES/avg temp ans.html",
+		"/C/Users/BRYKAPS/Pictures/haya.html",
+		"/C/Users/BRYKAPS/Pictures/script.html",
+		"/C/-KAPS-/MOVIE/Ladies Book Club 2016   2016 Lifetime Movie   Africa America Movie New Release.mp4",
+		"/C/Users/BRYKAPS/Pictures/mine exercise.html",
+		"/C/Users/BRYKAPS/Pictures/revision.html",
+		"/C/Users/BRYKAPS/Videos/CAMPUS.html",
+		"/C/Users/BRYKAPS/Pictures/class exercise.html",
+		"/C/Users/BRYKAPS/Videos/css.html",
+		"/C/Users/BRYKAPS/Pictures/hypertext markup language.html",
+		"/C/Users/BRYKAPS/Videos/stuffthing.html",
+		"/C/Users/BRYKAPS/Pictures/BRIAN KAPANGA.html",
+		"/C/Users/BRYKAPS/Pictures/ref.html",
+		"/C/Users/BRYKAPS/Pictures/kapanga.js",
+		"/C/Users/BRYKAPS/Pictures/chonzi.js",
+		"/C/Users/BRYKAPS/Pictures/brian.html",
+		"/C/Users/BRYKAPS/Desktop/boxes.html",
+		"/C/Users/BRYKAPS/Downloads/brianKapangaIT.html",
+		"/G/css",
+		"/D/CANTEEN FINAL.py",
+		"/C/Users/BRYKAPS/Pictures/kaps.html",
+		"/D/pridechaipahIT.html",
+		"/D/tapiwanashekufarimaniIT.html",
+		"/C/Users/BRYKAPS/Downloads/tinotenda gladden magodoIT.html",
+		"/F/tapiwanashekufarimaniIT.html",
+		"/C/Users/BRYKAPS/Pictures/BRIAN KAPANGA",
+		"/C/-KAPS-/KUDA MUSIC/showerz/05 Murimutsvene.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/02 Somandla.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/08 Ndodzoka.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/09 By faith.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/06 Kana nzira.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/01 Gadzirira.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/07 Tinotenda.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/04 Haambondisiyi.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/10 Nguva Yekuparadzana.wma",
+		"/C/-KAPS-/KUDA MUSIC/showerz/03 Lean on Jesus.wma",
+		"/C/Users/BRYKAPS/Pictures/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "practice.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
